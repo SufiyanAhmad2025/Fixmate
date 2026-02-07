@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository (Ignore it):
 ```bash
-git clone https://github.com/your-username/fixmate.git
+git clone https://github.com/SufiyanAhmad2025/Fixmate.git
 cd fixmate
 ```
 
@@ -203,5 +203,21 @@ mongosh "mongodb://fixmateUser:appPassword@localhost:27017/fixmate"
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+© 2026 Fixmate – Group Project  
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to deal in the Software
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, and sublicense.
+
+This project was developed as a **group academic project** and is intended
+for learning and demonstration purposes.
 
 
